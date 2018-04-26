@@ -7,6 +7,6 @@ A curated list of awesome Android UI/UX libraries.
 - _Looking for iOS? Check out_ [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 
 ## Maintainers
-[![Lovesosoi](pic/mandroid.png) Lovesosoi](https://github.com/wasabeef)  
+[![Lovesosoi](pic/lovesosoi.png) Lovesosoi](https://github.com/wasabeef)  
 
 
