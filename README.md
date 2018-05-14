@@ -1,4 +1,4 @@
-Android UI Library and Tools Library-ch
+# Android UI Library and Tools Library-ch
 ==================
 一份用心编写的Android UI/Tools 开源库
 
@@ -20,10 +20,10 @@ Android UI Library and Tools Library-ch
 [![Lovesosoi](pic/lovesosoi.png) Lovesosoi](https://github.com/wasabeef)  
 
 ## 目录 `(简洁版)`
-* [控件](pages/View.md)
-* [工具](pages/Tools.md)
-* [面试](pages/Interview.md)
-* [其他](pages/Other.md)
-* [开源项目](pages/OpenSource.md)
+* [控件](pages/控件.md)
+* [工具](pages/工具.md)
+* [面试](pages/面试.md)
+* [其他](pages/其他.md)
+* [开源项目](pages/开源项目.md)
 * [Kotlin](pages/Kotlin.md)
 
