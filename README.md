@@ -17,13 +17,13 @@
 - react-native Library [crazycodeboy] [react-native-awesome](https://github.com/crazycodeboy/react-native-awesome)
 
 ## 维护者
-[![Lovesosoi](pic/lovesosoi.png) Lovesosoi](https://github.com/wasabeef)  
+[![Lovesosoi](pic/lovesosoi.png) Lovesosoi](https://github.com/lvm0306)  
 
 ## 目录 `(简洁版)`
 * [控件](pages/控件.md)
 * [工具](pages/工具.md)
 * [面试](pages/面试.md)
-* [其他](pages/其他.md)
+* [文档](pages/其他.md)
 * [开源项目](pages/开源项目.md)
 * [Kotlin](pages/Kotlin.md)
 

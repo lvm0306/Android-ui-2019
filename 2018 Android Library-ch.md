@@ -15,9 +15,11 @@
 - python Library [jobbole] [awesome-python](https://github.com/jobbole/awesome-python-cn)
 - wepy Library [aben1188] [awesome-wepy](https://github.com/aben1188/awesome-wepy)
 - react-native Library [crazycodeboy] [react-native-awesome](https://github.com/crazycodeboy/react-native-awesome)
+- quickapp Library [awesome] [awesome-quickapp](https://github.com/quickappdev/awesome-quickapp)
+
 
 ## 维护者
-[![Lovesosoi](pic/lovesosoi.png) Lovesosoi](https://github.com/wasabeef)  
+[![Lovesosoi](pic/lovesosoi.png) Lovesosoi](https://github.com/lvm0306)  
 
 ## 目录 `(简洁版)`
 * [控件](pages/控件.md)
