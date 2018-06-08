@@ -70,8 +70,8 @@
 
 
 
-### 控件
-#### Animation
+####  控件
+####  Animation
 |名字|介绍|图片|
 |-----|-----|-----|
 |[Android-DivergeView](https://github.com/HomHomLin/Android-DivergeView)|仿美拍直播的点赞动画。|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/library2/library2_kj01.jpg)|
@@ -2635,14 +2635,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 ### 开源项目
 |名字|介绍|图片|
 |-----|-----|-----|
-|##### 1.[AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher)|这是一个TV Leanback 风格桌面|![](https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/design_sketch1.png)
-|
-|##### 2.[Java-Poetry](https://github.com/Alex-Jerry/Java-Poetry)|App《最美诗词》服务器端源码，当前版本仅提供API接口||
-|##### 3.[ComicBook](https://github.com/liyuechun/ComicBook)|基于iOS和Android的react-native跨平台漫画App|![](https://raw.githubusercontent.com/liyuechun/ComicBook/master/Design_Sketch/004.png)|
-|##### 4.[smzdm](https://github.com/gdmec07120731/smzdm)|什么值得买AndroidVersion|![](https://camo.githubusercontent.com/b5396f007fa12131eb5ffdb7bfb5f8be3a607a64/68747470733a2f2f73312e617831782e636f6d2f323031382f30352f30342f437474725a512e706e67)|
-|##### 5.[smzdmWxApp](https://github.com/gdmec07120731/smzdmWxApp)|什么值得买微信小程序|![](https://camo.githubusercontent.com/412d341cb171a74f67392620cb8659041d6b8c5e/68747470733a2f2f73312e617831782e636f6d2f323031382f30352f30332f4374744761642e706e67)|
-|[mua](https://github.com/zeleven/mua)|Android 版markdown
-||
+|[AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher)|这是一个TV Leanback 风格桌面|![](https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/design_sketch1.png)|
+|[Java-Poetry](https://github.com/Alex-Jerry/Java-Poetry)|App《最美诗词》服务器端源码，当前版本仅提供API接口||
+|[ComicBook](https://github.com/liyuechun/ComicBook)|基于iOS和Android的react-native跨平台漫画App|![](https://raw.githubusercontent.com/liyuechun/ComicBook/master/Design_Sketch/004.png)|
+|[smzdm](https://github.com/gdmec07120731/smzdm)|什么值得买AndroidVersion|![](https://camo.githubusercontent.com/b5396f007fa12131eb5ffdb7bfb5f8be3a607a64/68747470733a2f2f73312e617831782e636f6d2f323031382f30352f30342f437474725a512e706e67)|
+|[smzdmWxApp](https://github.com/gdmec07120731/smzdmWxApp)|什么值得买微信小程序|![](https://camo.githubusercontent.com/412d341cb171a74f67392620cb8659041d6b8c5e/68747470733a2f2f73312e617831782e636f6d2f323031382f30352f30332f4374744761642e706e67)|
+|[mua](https://github.com/zeleven/mua)|Android 版markdown||
 |[LQRWeChat](https://github.com/GitLqr/LQRWeChat)|高仿微信||
 |[elm-react-native](https://github.com/stoneWeb/elm-react-native)|RN 的 饿了么应用程序，运行ios和android。||
 |[FBReaderJ](https://github.com/geometer/FBReaderJ)|FBReader是运行Android操作系统的设备的快速且高度可定制的电子书阅读器（支持1.5或更高版本，推荐2或更高）。||
@@ -2906,13 +2904,13 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 ### 面试|文章
 |名字|介绍|
 |-----|-----|
-|##### 1.[CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge)|常用的Android开发的一些技能点汇集。|
-|##### 2.[ruby-china](https://github.com/liukun-lk/awesome-ruby-china)|以下内容来源 Ruby China 社区的精华帖|
-|##### 3.[Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)|技术面试需要掌握的基础知识整理|
-|##### 4.[FE-interview](https://github.com/qiu-deqing/FE-interview)|收集的前端面试题和答案|
-|##### 5.[coding-interview-university](https://github.com/jwasham/coding-interview-university)|一套完整的学习手册帮助自己准备 Google 的面试|
-|##### 6.[android-intervie](https://github.com/guoxiaoxing/android-interview)|给Android开发工程师的一份面试指南，包含面试题集与简历模板。|
-|##### 7.[Android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)|关于Android开发技巧的秘籍|
+|[CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge)|常用的Android开发的一些技能点汇集。|
+|[ruby-china](https://github.com/liukun-lk/awesome-ruby-china)|以下内容来源 Ruby China 社区的精华帖|
+|[Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)|技术面试需要掌握的基础知识整理|
+|[FE-interview](https://github.com/qiu-deqing/FE-interview)|收集的前端面试题和答案|
+|[coding-interview-university](https://github.com/jwasham/coding-interview-university)|一套完整的学习手册帮助自己准备 Google 的面试|
+|[android-intervie](https://github.com/guoxiaoxing/android-interview)|给Android开发工程师的一份面试指南，包含面试题集与简历模板。|
+|[Android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)|关于Android开发技巧的秘籍|
 |[hongyangAndroid](https://github.com/hongyangAndroid/Android_Blog_Demos)|鸿洋博客文章|![](https://camo.githubusercontent.com/17fbfef3900a85634509c3b4da984a676b7e55a0/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531303231313033303133353832)|
 |[LearningNotes](https://github.com/francistao/LearningNotes)|Android+Java全套学习笔记||
 |[Good-Text-Share](https://github.com/Wscats/Good-Text-Share)|《前端回忆录》||
@@ -2935,8 +2933,6 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[react-native-awesome](https://github.com/crazycodeboy/react-native-awesome)|React Native 学习资源精选仓库|![]()|
 |[Blog](https://github.com/BaronZ88/Blog)|知乎专栏中的文章 |![]()|
 |[greyhame-2017](https://github.com/ChrisLinn/greyhame-2017)|知识星球"灰袍技能" 2017 精华|![]()|
-|[]()||![]()|
-|[]()||![]()|
 
 
 
