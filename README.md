@@ -19,6 +19,9 @@
 ## 维护者
 [![Lovesosoi](pic/lovesosoi.png) Lovesosoi](https://github.com/lvm0306)  
 
+## 声明
+本库主要是是收集整理Android kotlin 等开源库，，目前github上的Android 开源库作者都是很久才更新一次，几乎不再维护，我会一直更新的，先立好flag，本库目前收录了1800余库，基本是每周一更新，与[Android 周报](https://github.com/lvm0306/android_weekly)同步更新，部分图片失效，可能是开源库的作者删除了图片，或引用了其他图片，大家点进开源库里去看图片即可，本开源库是按照功能分类的，可能一个控件即属于列表 🈶 属于 动画，那么两边可能会都有，这取决于我当时的脑回路，毕竟1800多快2000的库，我也记不清楚，原则上是不重复，如果出现重复，大家忽视就好，我会定期去重的，大家如果有好的库，也欢迎提给我，我加上，毕竟目的是节省大家的开发时间，如果在这个开源库里能满足你所有的需求，岂不是美哉~，。最后，各位大佬，给个星星呗~
+
 ## 目录 `(分页版)`
 * [控件](pages/控件.md)
 * [工具](pages/工具.md)
@@ -26,49 +29,6 @@
 * [文档](pages/其他.md)
 * [开源项目](pages/开源项目.md)
 * [Kotlin](pages/Kotlin.md)
-
-##  目录`导航版`
-- [控件](#控件)
-    - [Animation](#animation)
-    - [recycle|List](#recycle和list)
-    - [popupwindow|dialog](#popupwindow和dialog)
-    - [日历及选择器](#日历及选择器)
-    - [viewpager](#viewpager)
-    - [Button](#button)
-    - [Menu](#menu)
-    - [自定义View](#自定义view)
-    - [图片处理](#图片处理)
-    - [TextView](#textview)
-    - [Group](#group)
-    - [ProgressBar](#progressbar)
-    - [WebView](#Webview)
-    - [图表](#图表)
-    - [表格](#表格)
-    - [Drawer](#Drawer)
-    - [Toast|snackbar|提示样式](#toast和snackbar和提示样式)
-    - [引导页](#引导页)
-    - [导航栏](#导航栏)
-    - [相机](#相机)
-    - [视频及音频](#视频及音频)
-    - [颜色选择器](#颜色选择器)
-    - [表情](#表情)
-    - [认证](#认证)
-    - [地图](#地图)
-    - [换肤](#换肤)
-    - [数据库](#数据库)
-    - [Input](#input)
-    - [Zxing](#zxing)
-    - [Log](#log)
-    - [网络请求框架](#网络请求框架)
-    - [动态更新热更新](#动态更新热更新)
-    - [其他](#其他)
-- [工具](#工具)
-- [开源项目](#开源项目)
-- [面试|文章](#面试和文章)
-- [其他](#其他)
-- [Kotlin](#kotlin)
-
-========
 
 ####  控件
 ========
@@ -3082,8 +3042,11 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 
 
 ========
+
 #### 其他
+
 ========
+
 |名字|介绍|
 |-----|-----|
 |Hackintosh](https://github.com/huangyz0918/Hackintosh-Installer-University)|这是一个开源的黑苹果教程仓库，对所有用户免费。|
@@ -3135,8 +3098,11 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 
 
 ========
+
 #### Kotlin
+
 ========
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[android-sunflower](https://github.com/googlesamples/android-sunflower)|A gardening app illustrating Android development best practices with Android Jetpack.|![](https://raw.githubusercontent.com/googlesamples/android-sunflower/master/screenshots/phone_plant_list.png)|
@@ -3177,4 +3143,20 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)|设计模式在Kotlin中实现||
 |[kotlin](https://github.com/JetBrains/kotlin)|Kotlin源码||
 
+License
+=======
+
+    Copyright 2016 Robinhood Markets, Inc.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
