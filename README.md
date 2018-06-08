@@ -19,13 +19,55 @@
 ## 维护者
 [![Lovesosoi](pic/lovesosoi.png) Lovesosoi](https://github.com/lvm0306)  
 
-## 目录 `(简洁版)`
+## 目录 `(分页版)`
 * [控件](pages/控件.md)
 * [工具](pages/工具.md)
 * [面试](pages/面试.md)
 * [文档](pages/其他.md)
 * [开源项目](pages/开源项目.md)
 * [Kotlin](pages/Kotlin.md)
+
+##  目录`导航版`
+- [控件](#控件)
+    - [Animation](#Animation)
+    - [recycle|List](#recycle|List)
+    - [popupwindow|dialog](#popupwindow|dialog)
+    - [日历及选择器](#日历及选择器)
+    - [viewpager](#viewpager)
+    - [Button](#Button)
+    - [Menu](#Menu)
+    - [自定义View](#自定义View)
+    - [图片处理](#图片处理)
+    - [TextView](#TextView)
+    - [Group](#Group)
+    - [ProgressBar](#ProgressBar)
+    - [WebView](#WebView)
+    - [图表](#图表)
+    - [表格](#表格)
+    - [Drawer](#Drawer)
+    - [Toast|snackbar|提示样式](#Toast|snackbar|提示样式)
+    - [引导页](#引导页)
+    - [导航栏](#导航栏)
+    - [相机](#相机)
+    - [视频及音频](#视频及音频)
+    - [颜色选择器](#颜色选择器)
+    - [表情](#表情)
+    - [认证](#认证)
+    - [地图](#地图)
+    - [换肤](#换肤)
+    - [数据库](#数据库)
+    - [Input](#Input)
+    - [Zxing](#Zxing)
+    - [Log](#Log)
+    - [网络请求框架](#网络请求框架)
+    - [动态更新热更新](#动态更新热更新)
+    - [其他](#其他)
+- [工具](#工具)
+- [开源项目](#开源项目)
+- [面试|文章](#面试|文章)
+- [其他](#其他)
+- [Kotlin](#Kotlin)
+
 
 
 ### 控件
@@ -131,7 +173,7 @@
 |[LRecyclerView](https://github.com/jdsjlzx/LRecyclerView)|RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/library2/library2_kj01.jpg)|
 |[LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup)|自定义LayoutManager，炫酷列表|![](https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img1.gif)|
 |[RecyclerStickyHeaderView](https://github.com/TellH/RecyclerStickyHeaderView)|RecyclerView的粘滞标题视图或挂起视图||
-|68.[ClassifyView](https://github.com/beasonshu/ClassifyView)|类似Launcher效果的拖拽合并的RecyclerView||
+|[ClassifyView](https://github.com/beasonshu/ClassifyView)|类似Launcher效果的拖拽合并的RecyclerView||
 |[expandable-recycler-view](https://github.com/thoughtbot/expandable-recycler-view)|定制的Android RecyclerViewAdapter，可以折叠和展开||
 |[EasyRecyclerViewSidebar](https://github.com/CaMnter/EasyRecyclerViewSidebar)|Easy sidebar for Android RecyclerView||
 |[Graywater](https://github.com/tumblr/Graywater)|Graywater是一个RecyclerView适配器，可以方便地对复杂和多变的列表项目进行高性能的分解。它通过将大数据模型映射到多个视图，将多个框架上创建复杂列表项目所需的工作分开。||
@@ -951,19 +993,6 @@
 |[CompressHelper]( https://github.com/nanchen2251/CompressHelper)|压缩文件，压缩图片，压缩Bitmap，Compress,CompressImage,CompressFile,CompressBitmap|<img src="https://raw.githubusercontent.com/nanchen2251/CompressHelper/master/111.png" width = "320"/>|
 |[AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban)|高效、简洁的图片压缩工具库 / An Advanced Compress Image Library for Android http://shaohui.me||
 |[Luban](https://github.com/Curzibn/Luban)|Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法||
-|[MVBarcodeReader](https://github.com/iamMehedi/MVBarcodeReader)|条码识别||
-|[zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded)|Port of the ZXing Android application as an Android library project, for embedding in an Android application||
-|[AwesomeQRCode]( https://github.com/SumiMakito/AwesomeQRCode)|一个优雅的二维码生成器|<img src="https://github.com/SumiMakito/AwesomeQRCode/raw/master/art/awesome-qr-4.png" width="320" />|
-|[PressScanCode]( https://github.com/BolexLiu/PressScanCode)|一个长按扫描webView上的二维码的工具库|<img src="https://raw.githubusercontent.com/BolexLiu/PressScanCode/master/tips.gif" width="240" />|
-|[ZXingDemo]( https://github.com/vivian8725118/ZXingDemo)|六种二维码生成的样式|<img src="https://raw.githubusercontent.com/vivian8725118/ZXingDemo/master/art/S61128-17080029.jpg" width="320" />|
-|[MobileVisionBarcodeScanner]( https://github.com/KingsMentor/MobileVisionBarcodeScanner)|二维码扫描|<img src="https://github.com/KingsMentor/MobileVisionBarcodeScanner/raw/master/lib_example.gif" width="640" />|
-|[Android-Zxing]( https://github.com/mylhyl/Android-Zxing)|android google zxing 可配置扫描框、线样式 ，生成二维码（文字、联系人） http://blog.csdn.net/hupei/article/details/51859171|<img src="https://raw.githubusercontent.com/mylhyl/Android-Zxing/master/preview/gif.gif" width="270" />|
-|[Qart]( https://github.com/scola/Qart)|将生成的二维码与选择的图片合成，生成的新二维码|<img src="https://camo.githubusercontent.com/b3484d2714d126883be6a4a1ec69ba8f1ed402a3/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f613135623461666567773166376a6c766f746468776a32306b66306b6664676d2e6a7067" width="320" />|
-|[android-zxingLibrary]( https://github.com/yipianfengye/android-zxingLibrary)|Android 二维码，条码扫描，生成库|<img src="https://raw.githubusercontent.com/yipianfengye/android-zxingLibrary/master/images/ezgif.com-video-to-gif%20(2)%2015.33.08.gif" width="320" /> <img src="https://raw.githubusercontent.com/yipianfengye/android-zxingLibrary/master/images/ezgif.com-video-to-gif%20(5).gif" width="320" />|
-|[BGAQRCode-Android]( https://github.com/bingoogolapple/BGAQRCode-Android)|Android 二维码条码扫描，生成库|<img src="https://camo.githubusercontent.com/9925f6660c608bc6b25bbeb623d0184d5dca6968/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130362e676966" width="320" /> <img src="https://camo.githubusercontent.com/592a5ae13ae4c01c298b68d27f179a23843d398a/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130332e676966" width="320" />|
-|[zxing-barcode]( https://github.com/ThePacific/zxing-barcode)|A barcode scanner based on zxing for android|<img src="https://github.com/ThePacific/Zxing-Barcode/blob/master/gif/example.gif" width="320" />|
-|[QrCardParsing]( https://github.com/RurioLuca/QrCardParsing)|二维码生成、扫描库|<img src = "https://raw.githubusercontent.com/RurioLuca/MeCardParsing/master/img/screen.png" width = "320"/>|
-|[QRGenerator](https://github.com/androidmads/QRGenerator)|二维码扫描库||
 |[AutoZoomInImageView]( https://github.com/Carbs0126/AutoZoomInImageView)|可做splash动画，一张静态图片居中显示并充满屏幕，同时不断放大图片中间部分，形成一种图片不断向中间放大的动画效果|<img src = "https://raw.githubusercontent.com/Carbs0126/Screenshot/master/AutoZoomInImageView.gif" width = "270"/>|
 |[AndroidGradientImageView]( https://github.com/skyfe79/AndroidGradientImageView)|Android 色彩渐进 ImageView|<img src = "https://raw.githubusercontent.com/skyfe79/AndroidGradientImageView/master/art/gradient-animation.gif" width = "270"/>|
 |[QiniuImageLoader]( https://github.com/lingochamp/QiniuImageLoader)|在Android上结合七牛提供的API，让加载图片更有效、更节流、更简单、更可控、更酷|<img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_1.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_2.jpg" width = "320"/>|
@@ -1855,8 +1884,20 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 #### Zxing
 |名字|介绍|图片|
 |-----|-----|-----|
-|[](https://github.com/zxing/zxing)|二维码之祖|![](https://camo.githubusercontent.com/cd92fcc87ebc531c60edc667da4a77b90c004ff0/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f7a78696e672f7a78696e672f7a78696e672d6c6f676f2e706e67)|
-
+|[zxing](https://github.com/zxing/zxing)|二维码之祖|![](https://camo.githubusercontent.com/cd92fcc87ebc531c60edc667da4a77b90c004ff0/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f7a78696e672f7a78696e672f7a78696e672d6c6f676f2e706e67)|
+|[MVBarcodeReader](https://github.com/iamMehedi/MVBarcodeReader)|条码识别||
+|[zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded)|Port of the ZXing Android application as an Android library project, for embedding in an Android application||
+|[AwesomeQRCode]( https://github.com/SumiMakito/AwesomeQRCode)|一个优雅的二维码生成器|<img src="https://github.com/SumiMakito/AwesomeQRCode/raw/master/art/awesome-qr-4.png" width="320" />|
+|[PressScanCode]( https://github.com/BolexLiu/PressScanCode)|一个长按扫描webView上的二维码的工具库|<img src="https://raw.githubusercontent.com/BolexLiu/PressScanCode/master/tips.gif" width="240" />|
+|[ZXingDemo]( https://github.com/vivian8725118/ZXingDemo)|六种二维码生成的样式|<img src="https://raw.githubusercontent.com/vivian8725118/ZXingDemo/master/art/S61128-17080029.jpg" width="320" />|
+|[MobileVisionBarcodeScanner]( https://github.com/KingsMentor/MobileVisionBarcodeScanner)|二维码扫描|<img src="https://github.com/KingsMentor/MobileVisionBarcodeScanner/raw/master/lib_example.gif" width="640" />|
+|[Android-Zxing]( https://github.com/mylhyl/Android-Zxing)|android google zxing 可配置扫描框、线样式 ，生成二维码（文字、联系人） http://blog.csdn.net/hupei/article/details/51859171|<img src="https://raw.githubusercontent.com/mylhyl/Android-Zxing/master/preview/gif.gif" width="270" />|
+|[Qart]( https://github.com/scola/Qart)|将生成的二维码与选择的图片合成，生成的新二维码|<img src="https://camo.githubusercontent.com/b3484d2714d126883be6a4a1ec69ba8f1ed402a3/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f613135623461666567773166376a6c766f746468776a32306b66306b6664676d2e6a7067" width="320" />|
+|[android-zxingLibrary]( https://github.com/yipianfengye/android-zxingLibrary)|Android 二维码，条码扫描，生成库|<img src="https://raw.githubusercontent.com/yipianfengye/android-zxingLibrary/master/images/ezgif.com-video-to-gif%20(2)%2015.33.08.gif" width="320" /> <img src="https://raw.githubusercontent.com/yipianfengye/android-zxingLibrary/master/images/ezgif.com-video-to-gif%20(5).gif" width="320" />|
+|[BGAQRCode-Android]( https://github.com/bingoogolapple/BGAQRCode-Android)|Android 二维码条码扫描，生成库|<img src="https://camo.githubusercontent.com/9925f6660c608bc6b25bbeb623d0184d5dca6968/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130362e676966" width="320" /> <img src="https://camo.githubusercontent.com/592a5ae13ae4c01c298b68d27f179a23843d398a/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130332e676966" width="320" />|
+|[zxing-barcode]( https://github.com/ThePacific/zxing-barcode)|A barcode scanner based on zxing for android|<img src="https://github.com/ThePacific/Zxing-Barcode/blob/master/gif/example.gif" width="320" />|
+|[QrCardParsing]( https://github.com/RurioLuca/QrCardParsing)|二维码生成、扫描库|<img src = "https://raw.githubusercontent.com/RurioLuca/MeCardParsing/master/img/screen.png" width = "320"/>|
+|[QRGenerator](https://github.com/androidmads/QRGenerator)|二维码扫描库||
 
 #### Log
 |名字|介绍|图片|
@@ -1864,18 +1905,6 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[xLog](https://github.com/elvishew/xLog)|简单、美观、强大、可扩展的 Android 和 Java 日志库，|https://raw.githubusercontent.com/elvishew/XLog/master/images/classic_log.png|
 |[logger](https://github.com/orhanobut/logger)|简介好看使用的log库|![](https://raw.githubusercontent.com/orhanobut/logger/master/art/logger_output.png)|
 |[ALog](https://github.com/Blankj/ALog)|Android开发简单的使用日志|![](https://raw.githubusercontent.com/Blankj/ALog/master/art/alog.gif)|
-
-#### 工具类及开源库
-|名字|介绍|图片|
-|-----|-----|-----|
-|[TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)|
-自己总结的Android开源项目及库||
-|[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)|一个强大易用的安卓工具类库||
-|[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|分享 GitHub 上好玩、容易上手的项目|![](https://raw.githubusercontent.com/521xueweihan/HelloGitHub/master/content/01/img/hello-github.jpg)|
-|[SuperUtils](https://github.com/AllenCoder/SuperUtils)|utils项目||
-|[Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)|材料设计库和材料的集合。||
-|[AndroidLibs](https://github.com/XXApple/AndroidLibs)|正在成为史上最全分类 Android 开源大全|![]()|
-
 
 
 #### 网络请求框架
@@ -1942,18 +1971,13 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[AndroidNetworkDemo](https://github.com/dodocat/AndroidNetworkDemo)|A demo show how to use Volley with OkHttp and https.同步发于[简书](http://www.jianshu.com/p/e58161cbc3a4)||
 
 
-#### 进度条
-|名字|介绍|图片|
-|-----|-----|-----|
-
 #### 动态权限请求库
 |名字|介绍|图片|
 |-----|-----|-----|
 |[easypermissions](https://github.com/googlesamples/easypermissions)|简化Android M系统权限||
 |[AndPermission](https://github.com/yanzhenjie/AndPermission)|Android权限管理器。||
 |[permissions4m](https://github.com/jokermonn/permissions4m)|国产手机5.0、6.0权限适配框架/编译时注解框架||
-|[]()|||
-|[]()|||
+
 
 
 #### 其他
@@ -1991,6 +2015,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 ### 工具
 |名字|介绍|
 |-----|-----|
+|[TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)|自己总结的Android开源项目及库||
+|[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)|一个强大易用的安卓工具类库||
+|[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|分享 GitHub 上好玩、容易上手的项目|![](https://raw.githubusercontent.com/521xueweihan/HelloGitHub/master/content/01/img/hello-github.jpg)|
+|[SuperUtils](https://github.com/AllenCoder/SuperUtils)|utils项目||
+|[Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)|材料设计库和材料的集合。||
+|[AndroidLibs](https://github.com/XXApple/AndroidLibs)|正在成为史上最全分类 Android 开源大全|![]()|
 |[AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin)|一键生成项目混淆代码插件，值得你安装~|
 |[Lazy](https://github.com/l123456789jy/Lazy)|The android tools 自己整理的常用的工具类|
 |[UniPinyin](https://github.com/nillith/UniPinyin)|Java 汉语拼音查询工具。支持CJK基本字符集及扩充区A的中文汉字|
@@ -2068,8 +2098,7 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[Paging Library](https://developer.android.com/topic/libraries/architecture/paging.html)|分页库使您的应用程序更容易从数据源逐步加载所需的信息，而不会使设备过载或等待太长的时间以查找大数据库查询|
 |[Jenkins的Android Apk Size Watcher插件](https://wiki.jenkins.io/display/JENKINS/Android+Apk+Size+Watcher+Plugin)|观察.apk文件的变化大小，一旦变化超过指定的阈值，就会使构建失败。|
 |[FragmentTestRule](https://github.com/21Buttons/FragmentTestRule)|JUnit规则单独测试片段|
-|[SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)|
-android免root兼容所有版本ui调试工具|![](https://raw.githubusercontent.com/android-notes/blogimg/master/newSAK%E5%8A%9F%E8%83%BD1.jpg)|
+|[SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)|android免root兼容所有版本ui调试工具|![](https://raw.githubusercontent.com/android-notes/blogimg/master/newSAK%E5%8A%9F%E8%83%BD1.jpg)|
 |[Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)|这个仓库主要是为开发者收集非常好的 API ||
 |[JakeWharton/hugo](https://github.com/JakeWharton/hugo)|您的调试版本的注释触发方法调用日志记录。||
 |[androidstudio-plugins](https://github.com/dreamlivemeng/androidstudio-plugins)|AndroidStudio 优秀插件汇总||
@@ -2918,30 +2947,30 @@ android免root兼容所有版本ui调试工具|![](https://raw.githubusercontent
 
 |名字|介绍|
 |-----|-----|
-|##### 1.[Hackintosh](https://github.com/huangyz0918/Hackintosh-Installer-University)|这是一个开源的黑苹果教程仓库，对所有用户免费。|
-|##### 2.[flutter_list_drag_and_drop](https://github.com/Norbert515/flutter_list_drag_and_drop)|A new Flutter package which handles all aspects of drag and drop inside a listView.|
-|##### 3.[Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)|Flutter从配置安装到填坑指南详解|
-|##### 4.[crash-course-computer](https://github.com/1c7/crash-course-computer-science-chinese)|计算机速成课 | Crash Course 字幕组(全40集2018-5-1精校完成)|
-|##### 5.[aliyun-oss-android-sdk](https://github.com/aliyun/aliyun-oss-android-sdk)|阿里云官方集成oss-demo|
-|##### 6.[Android-IO18](https://github.com/karntrehan/Android-IO18)|Google I/O 2018 了解一下|
-|##### 7.[android_guides](https://github.com/codepath/android_guides)|Android 开源源码Extensive Open-Source Guides for Android Developers|
-|##### 8.[lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)|致力于将李航博士《统计学习方法》一书中所有算法实现一遍 |
-|##### 9.[gold-miner](https://github.com/xitu/gold-miner)|掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台|
-|##### 10.[ItChat](https://github.com/littlecodersh/ItChat)|微信开源小机器人|
-|1.[chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)|统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。|
-|2.[open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)|非常棒的MacOS开源应用程序列表
+|Hackintosh](https://github.com/huangyz0918/Hackintosh-Installer-University)|这是一个开源的黑苹果教程仓库，对所有用户免费。|
+|[flutter_list_drag_and_drop](https://github.com/Norbert515/flutter_list_drag_and_drop)|A new Flutter package which handles all aspects of drag and drop inside a listView.|
+|[Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)|Flutter从配置安装到填坑指南详解|
+|[crash-course-computer](https://github.com/1c7/crash-course-computer-science-chinese)|计算机速成课 | Crash Course 字幕组(全40集2018-5-1精校完成)|
+|[aliyun-oss-android-sdk](https://github.com/aliyun/aliyun-oss-android-sdk)|阿里云官方集成oss-demo|
+|[Android-IO18](https://github.com/karntrehan/Android-IO18)|Google I/O 2018 了解一下|
+|[android_guides](https://github.com/codepath/android_guides)|Android 开源源码Extensive Open-Source Guides for Android Developers|
+|[lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)|致力于将李航博士《统计学习方法》一书中所有算法实现一遍 |
+|[gold-miner](https://github.com/xitu/gold-miner)|掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台|
+|[ItChat](https://github.com/littlecodersh/ItChat)|微信开源小机器人|
+|[chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)|统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。|
+|[open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)|非常棒的MacOS开源应用程序列表
 |
-|3.[wepy](https://github.com/Tencent/wepy)|小程序组件化开发框架|
-|4.[greyhame-2017](https://github.com/ChrisLinn/greyhame-2017)|知识星球"灰袍技能" 2017 精华|
-|5.[animate.css](https://github.com/daneden/animate.css)|CSS动画的跨浏览器库。|
-|6.[nanoscope](https://github.com/uber/nanoscope)|一种非常准确的Android方法追踪工具。|
-|7.[BlockChain](https://github.com/itheima1/BlockChain)|黑马程序员 120天全栈区块链开发 开源教程|
-|8.[Documentation](https://github.com/EOSIO/Documentation)|EOS.IO 白皮书|
-|9.[fuchsia-docs-zh-C](https://github.com/zhangpf/fuchsia-docs-zh-CN)|本项目的目的是翻译和提供Fuchsia操作系统项目中Markdown文档的中文版本。|
-|10.[gitignore](https://github.com/github/gitignore)|一组有用的.gitignore模板|
-|11.[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)|deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）|
-|12.[architect-awesome](https://github.com/xingshaocheng/architect-awesome)|后端架构师技术图谱|
-|13.[Icons](https://material.io/guidelines/style/icons.html#icons-product-icons)|更新了图标的材质样式准则|
+|[wepy](https://github.com/Tencent/wepy)|小程序组件化开发框架|
+|[greyhame-2017](https://github.com/ChrisLinn/greyhame-2017)|知识星球"灰袍技能" 2017 精华|
+|[animate.css](https://github.com/daneden/animate.css)|CSS动画的跨浏览器库。|
+|[nanoscope](https://github.com/uber/nanoscope)|一种非常准确的Android方法追踪工具。|
+|[BlockChain](https://github.com/itheima1/BlockChain)|黑马程序员 120天全栈区块链开发 开源教程|
+|[Documentation](https://github.com/EOSIO/Documentation)|EOS.IO 白皮书|
+|[fuchsia-docs-zh-C](https://github.com/zhangpf/fuchsia-docs-zh-CN)|本项目的目的是翻译和提供Fuchsia操作系统项目中Markdown文档的中文版本。|
+|[gitignore](https://github.com/github/gitignore)|一组有用的.gitignore模板|
+|[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)|deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）|
+|[architect-awesome](https://github.com/xingshaocheng/architect-awesome)|后端架构师技术图谱|
+|[Icons](https://material.io/guidelines/style/icons.html#icons-product-icons)|更新了图标的材质样式准则|
 |[ResumeSample](https://github.com/geekcompany/ResumeSample)|程序员简历模板系列||
 |[English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)|可能是让你受益匪浅的英语进阶指南|![](https://raw.githubusercontent.com/byoungd/English-level-up-tips-for-Chinese/master/assets/How%402x.png)|
 |[learn-regex](https://github.com/zeeshanu/learn-regex)|以简单的方式学习正则表达式||
@@ -3007,7 +3036,5 @@ android免root兼容所有版本ui调试工具|![](https://raw.githubusercontent
 |[kotlinconf-app](https://github.com/JetBrains/kotlinconf-app)|这是官方的KotlinConf应用程序！ 所有应用程序都在Kotlin中实现：后端，前端和移动应用程序。||
 |[Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)|设计模式在Kotlin中实现||
 |[kotlin](https://github.com/JetBrains/kotlin)|Kotlin源码||
-
-
 
 
