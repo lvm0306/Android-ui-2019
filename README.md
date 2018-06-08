@@ -29,23 +29,23 @@
 
 ##  目录`导航版`
 - [控件](#控件)
-    - [Animation](#Animation)
-    - [recycle|List](#recycle|List)
-    - [popupwindow|dialog](#popupwindow|dialog)
+    - [Animation](#animation)
+    - [recycle|List](#recycle和list)
+    - [popupwindow|dialog](#popupwindow和dialog)
     - [日历及选择器](#日历及选择器)
     - [viewpager](#viewpager)
-    - [Button](#Button)
-    - [Menu](#Menu)
-    - [自定义View](#自定义View)
+    - [Button](#button)
+    - [Menu](#menu)
+    - [自定义View](#自定义view)
     - [图片处理](#图片处理)
-    - [TextView](#TextView)
-    - [Group](#Group)
-    - [ProgressBar](#ProgressBar)
-    - [WebView](#WebView)
+    - [TextView](#textview)
+    - [Group](#group)
+    - [ProgressBar](#progressbar)
+    - [WebView](#Webview)
     - [图表](#图表)
     - [表格](#表格)
     - [Drawer](#Drawer)
-    - [Toast|snackbar|提示样式](#Toast|snackbar|提示样式)
+    - [Toast|snackbar|提示样式](#toast和snackbar和提示样式)
     - [引导页](#引导页)
     - [导航栏](#导航栏)
     - [相机](#相机)
@@ -56,23 +56,23 @@
     - [地图](#地图)
     - [换肤](#换肤)
     - [数据库](#数据库)
-    - [Input](#Input)
-    - [Zxing](#Zxing)
-    - [Log](#Log)
+    - [Input](#input)
+    - [Zxing](#zxing)
+    - [Log](#log)
     - [网络请求框架](#网络请求框架)
     - [动态更新热更新](#动态更新热更新)
     - [其他](#其他)
 - [工具](#工具)
 - [开源项目](#开源项目)
-- [面试|文章](#面试|文章)
+- [面试|文章](#面试和文章)
 - [其他](#其他)
-- [Kotlin](#Kotlin)
+- [Kotlin](#kotlin)
 
 ========
 
 ####  控件
 ========
-####  Animation
+#####  Animation
 |名字|介绍|图片|
 |-----|-----|-----|
 |[Android-DivergeView](https://github.com/HomHomLin/Android-DivergeView)|仿美拍直播的点赞动画。|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/library2/library2_kj01.jpg)|
@@ -167,9 +167,12 @@
 
 
 
-========
-#### recycle|List
-========
+------
+
+##### recycleAndList
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[LRecyclerView](https://github.com/jdsjlzx/LRecyclerView)|RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/library2/library2_kj01.jpg)|
@@ -385,9 +388,12 @@
 |[YLListView]( https://github.com/yll2wcf/YLListView)|YLListView仿IOS弹簧效果的ListView|<img src="https://raw.githubusercontent.com/yll2wcf/YLListView/master/gif/1.gif" width="320" />|
 
 
-========
-#### popupwindow|dialog
-========
+------
+
+##### popupwindow和dialog
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[FlipShare](https://github.com/JeasonWong/FlipShare)|It's a flip way to show share widget.||
@@ -470,11 +476,12 @@
 |[Pugnotification](https://github.com/halysongoncalves/Pugnotification)|A powerful library for creating notifications in android platform.|<img src="https://raw.githubusercontent.com/halysongoncalves/pugnotification/master/art/screenshot.png" width="320" />|
 
 
+------
 
+##### 日历及选择器
 
-========
-#### 日历及选择器
-========
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[WheelView](https://github.com/wangjiegulu/WheelView)|Android滚动选择控件|![](https://raw.githubusercontent.com/wangjiegulu/WheelView/master/image/image01.png)|
@@ -583,9 +590,12 @@
 
 
 
-========
-#### viewpager
-========
+------
+
+##### viewpager
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[SwipeCardsView](https://github.com/huxq17/SwipeCardsView)|Android高仿秒拍热榜的卡片滑动和左右飞出效果|![](https://raw.githubusercontent.com/huxq17/SwipeCardsView/master/gif/gif3.gif)|
@@ -609,9 +619,12 @@
 |[RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery)|RecyclerView实现Card Gallery效果，替代ViewPager方案|![](https://raw.githubusercontent.com/huazhiyuan2008/RecyclerViewCardGallery/master/art/RecyclerViewCardGallery_blur.gif)|
 
 
-========
-#### Button
-========
+------
+
+##### button
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[ShineButton](https://github.com/ChadCSong/ShineButton)|这是Android的UI库。像闪亮的效果。|![](https://raw.githubusercontent.com/ChadCSong/ShineButton/master/demo_shine_others.gif)|
@@ -681,9 +694,12 @@
 |[LikeButton]( https://github.com/jd-alexander/LikeButton)|Twitter's heart animation for Android|<img src="https://camo.githubusercontent.com/c75e0c73a4fd9a0b03ff6abab44221060be9d14a/687474703a2f2f692e67697068792e636f6d2f336f386470347571334b34767652314d4a4f2e676966" width="320" />|
 
 
-========
-#### Menu
-========
+------
+
+##### menu
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[AnnularMenuView]( https://github.com/DingMouRen/AnnularMenuView)|基于Material Design设计的环形菜单控件|<img src="https://github.com/DingMouRen/AnnularMenuView/raw/master/screenshot/demo3.gif" width="320"/>|
@@ -732,9 +748,12 @@
 开关按钮的一个可爱的部件为您创造美丽和友好的用户界面||
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)|Android的StickySwitch库|![](https://raw.githubusercontent.com/GwonHyeok/StickySwitch/master/preview.gif)|
 
-========
-#### 自定义View
-========
+------
+
+##### 自定义view
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[RemoteControlView](https://github.com/simplezhli/RemoteControlView)|RemoteControlView是模仿乐视遥控App添加万能遥控器的交互效果。|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/2018Library2/remotecontrolview.gif)|
@@ -875,9 +894,12 @@
 |[voice-recording-visualizer](https://github.com/tyorikan/voice-recording-visualizer)|Simple Visualizer from mic input for Android.|<img src="https://camo.githubusercontent.com/dec65b58525ce17eff5e0318d3c39ae33760284a/687474703a2f2f696d672e796f75747562652e636f6d2f76692f664a546c31626751336a342f302e6a7067" width="320" />|
 |[MoveMapLocation]( https://github.com/scp504677840/MoveMapLocation)|移动地图选址|<img src="https://camo.githubusercontent.com/eff4f945232a44be81cec8a136fa17c52a43aaca/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531303132313332393235353232" width="320" />|
 
-========
-#### 图片处理
-========
+------
+
+##### 图片处理
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[PhotoEditor](https://github.com/burhanrashid52/PhotoEditor)|图片编辑器|![](https://camo.githubusercontent.com/369bd281b6e81fff361d03a59285a2db75f1d900/68747470733a2f2f692e696d6775722e636f6d2f494e69354c49792e676966)|
@@ -1064,9 +1086,12 @@
 |[GifView]( https://github.com/Cutta/GifView)|Library for playing gifs on Android|<img src="https://camo.githubusercontent.com/19b4e43298746358948ac05ce184fa4d99029159/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236745073594c356841344945474166752f67697068792e676966" width="320" />|
 
 
-========
-#### TextView
-========
+------
+
+##### TextView
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[RichText](https://github.com/zzhoujay/RichText)|Android平台下的富文本解析器，支持Html和Markdown||
@@ -1203,9 +1228,12 @@
 |[CountdownView](https://github.com/iwgang/CountdownView)|Android倒计时控件，使用Canvas绘制，支持多种样式|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/2018Library3/countdownview.png)|
 |[CountAnimationTextView](https://github.com/MasayukiSuda/CountAnimationTextView)|一个小型的Android库使得TextView的计数动画变得非常简单。|![](https://raw.githubusercontent.com/MasayukiSuda/CountAnimationTextView/master/art/demo.gif)|
 
-========
-#### Group
-========
+------
+
+##### Group
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[rclayout](https://github.com/GcsSloop/rclayout)|Android通用圆角布局||
@@ -1486,9 +1514,12 @@
 
 
 
-========
-#### ProgressBar
-========
+------
+
+##### ProgressBar
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[ProgressView](https://github.com/WhiteDG/ProgressView)|风格化的进度视图|![](https://raw.githubusercontent.com/WhiteDG/ProgressView/master/screenshot/demo.gif)|
@@ -1598,17 +1629,23 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 
 
 
-========
-#### WebView
-========
+------
+
+##### WebView
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[CacheWebView](https://github.com/yale8848/CacheWebView)|突破系统WebView缓存的空间限制的WebView||
 |[AgentWeb](https://github.com/Justson/AgentWeb)|AgentWeb是基于Android WebView的强大库。|![](https://raw.githubusercontent.com/Justson/AgentWeb/master/img/jd.png)|
 
-========
-#### 图表
-========
+------
+
+##### 图表
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[android-kline](https://github.com/VinsonGuo/android-kline)|Android专业版K线图、分时图|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/2018Library3/kchart.gif)
@@ -1632,9 +1669,13 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[spark](https://github.com/robinhood/spark)A simple Android sparkline chart view|<img src="https://github.com/robinhood/spark/blob/master/images/sample.png" width="480" />|
 
 
-========
-#### 表格
-========
+
+------
+
+##### 表格
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[TableView](https://github.com/evrencoskun/TableView)|TableView是一个功能强大的Android库，用于显示复杂的数据结构和呈现由行，列和单元格组成的表格数据。|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/2018Library/library03.jpg)|
@@ -1643,9 +1684,11 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 
 
 
-========
-#### Drawer
-========
+------
+
+##### Drawer
+
+------
 |名字|介绍|图片|
 |-----|-----|-----|
 |[TimeLine](https://github.com/ditclear/TimeLine)|一个简易的侧滑菜单控件，提供了仿IOS的越界回弹效果和左右滑动功能，可自由设置最小滑动距离和是否开启滑动功能|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/2018Library4/TimeLine.gif)|
@@ -1655,9 +1698,11 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 
 
 
-========
-#### Toast|snackbar|提示样式
-========
+------
+
+##### Toast和snackbar和提示样式
+
+------
 |名字|介绍|图片|
 |-----|-----|-----|
 |[FancyToast-Android](https://github.com/Shashank02051997/FancyToast-Android)|好看的Android Toast 库|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/article/2018Library/library02.png)|
@@ -1671,18 +1716,24 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 
 
 
-========
-#### 引导页
-========
+------
+
+##### 引导页
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)|Android 快速实现新手引导层的库，通过简洁链式调用，一行代码实现引导层的显示||
 |[Spotlight](https://github.com/TakuSemba/Spotlight)|Android库，指导教程或步行等项目...|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/android/weekly/265/265-3.gif)|
 |[Spotlight](https://github.com/TakuSemba/Spotlight)|好看的引导页|![](https://raw.githubusercontent.com/TakuSemba/Spotlight/master/arts/simpleTarget.gif)|
 
-========
-#### 导航栏
-========
+------
+
+##### 导航栏
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[Alligator](https://github.com/aartikov/Alligator)|Alligator是一个现代的Android导航库||
@@ -1696,9 +1747,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[AppOrder](https://github.com/zjw-swun/AppOrder)|改造TabLayout，修改指示线宽增加切Tab过渡动画|![](https://raw.githubusercontent.com/zjw-swun/AppOrder/master/images/1.gif)|
 
 
-========
-#### 相机
-========
+------
+
+##### 相机
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[CameraView](https://github.com/natario1/CameraView)|有据可查的高级Android界面，可以轻松捕捉照片和视频，解决所有常见问题和需求。||
@@ -1708,9 +1762,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 
 
 
-========
-#### 视频及音频
-========
+------
+
+##### 视频及音频
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[YCAudioPlayer](https://github.com/yangchong211/YCAudioPlayer)|音频播放器，基础播放功能有：播放，暂停，下一首，上一首；||
@@ -1833,52 +1890,75 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[TVSample]( https://github.com/hejunlin2013/TVSample)|1、仿泰捷视频最新TV版 Metro UI效果. 2、仿腾讯视频TV版(云视听·极光) 列表页|<img src="https://raw.githubusercontent.com/hejunlin2013/TVSample/master/images/device-2016-10-13-170829.png" width="640" />|
 |[IPTVFree]( https://github.com/michelelacorte/IPTVFree)|Simple IPTV|<img src="https://camo.githubusercontent.com/553b6dbbc319eb280221f91d6ca54085f6f7c97f/687474703a2f2f7333322e706f7374696d672e6f72672f636469306672676f352f73637265656e312e706e67" width="270" /> <img src="https://camo.githubusercontent.com/441f7cda6342de392b288611c008a98cefebe1b6/687474703a2f2f7333322e706f7374696d672e6f72672f3567617a30726533702f73637265656e322e706e67" width="270" /> <img src="https://camo.githubusercontent.com/2e5425d81011b38834f85b761d7ac6c68b0b877b/687474703a2f2f7333322e706f7374696d672e6f72672f3462637331306a36742f73637265656e342e706e67" width="270" />|
 
-========
-#### 颜色选择器
-========
+
+------
+
+##### 颜色选择器
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[ColorPickerPreference](https://github.com/skydoves/ColorPickerPreference)|一个库，可让您实现ColorPicker，ColorPickerDialog，ColorPickerPreference。|![](https://user-images.githubusercontent.com/24237865/36096666-9e9fc7ca-103a-11e8-9a1a-e1d685d000f9.png)|
 |[ColorPicker](https://github.com/DingMouRen/ColorPicker)|android取色器|![](https://raw.githubusercontent.com/DingMouRen/ColorPicker/master/imgs/img.gif)|
 
  
+------
 
-========
-#### 表情
-========
+##### 表情
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[emojicon](https://github.com/rockerhieu/emojicon)|用于Android的TextView，EditText（如WhatsApp）中显示表情符号的库|
 |[EmoticonGIFKeyboard](https://github.com/kevalpatel2106/EmoticonGIFKeyboard)|先进的表情符号和GIF键盘。|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/android/weekly/gif_demo_1.gif)|
 
-========
-#### 认证
-========
+
+------
+
+##### 认证
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)|Android库简化了指纹认证的实现||
 |[whorlwind](https://github.com/square/whorlwind)|Android指纹API的反应式封装，可处理使用指纹加密/解密敏感数据。||
 |[FaceDetect](https://github.com/hss01248/FaceDetect)|base on face++|![](https://raw.githubusercontent.com/hss01248/FaceDetect/master/demo.jpg)|
 |[](https://github.com/ChaosOctopus/ChaosSecurityCenter)|高仿支付宝手势密码|![](https://raw.githubusercontent.com/ChaosOctopus/ChaosSecurityCenter/master/app/src/main/res/mipmap-xhdpi/for_two.png)|
-========
-#### 地图
-========
+
+------
+
+##### 地图
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[MapMe](https://github.com/TradeMe/MapMe)|MapMe是一个用于处理地图的Android库。MapMe将适配器模式带入地图，简化了标记和注释的管理。|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/android/weekly/feature.png)|
 |[GeoJson-Viewer](https://github.com/Nextome/GeoJsonify)|在您的Android设备上查看GeoJson文件。只需选择一个GeoJson文件，然后从列表中选择一个地图提供者。|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/android/weekly/263/263-1.png)| |[百度地图](http://www.eoeandroid.com/thread-568507-1-1.html)| Android百度地图 线路规划，模拟运动轨迹，及全景效果|
 |[AirMapView](https://github.com/airbnb/AirMapView)|支持多个本地地图提供者包括谷歌地图V2和亚马逊地图V2||
-========
-#### 换肤
-========
+
+------
+
+##### 换肤
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[ThemeSkinning](https://github.com/burgessjp/ThemeSkinning)|Android 主题换肤的开源库||
 |[aesthetic](https://github.com/afollestad/aesthetic)|一个快速和易于使用的即插即用动态主题引擎。由Rx提供支持，适用于Android应用程序。|![](http://mdeandroid.oss-cn-beijing.aliyuncs.com/android/weekly/260/260-4.gif)|
 |[Android-skin-support](https://github.com/ximsfei/Android-skin-support)|Android 换肤框架|![](https://raw.githubusercontent.com/ximsfei/Res/master/skin/preview/default.png)|
-========
-#### 数据库
-========
+
+
+------
+
+##### 数据库
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[ObjectBox 1.0](http://objectbox.io/objectbox-1-0/)|ObjectBox 1.0是一个SQLite数据库的替代品。|它使移动（和物联网）设备上的对象持久性变得简单而快速。|
@@ -1886,9 +1966,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[android-lite-orm](https://github.com/litesuits/android-lite-orm)|LiteOrm是一款适用于Android的快速，小巧，功能强大的ORM框架|![](https://camo.githubusercontent.com/99b6cf4ce8e389b6f7356397bf7746aac6284aae/687474703a2f2f6c69746573756974732e636f6d2f696d67732f6c6974652d76732d73797374656d2e706e67)|
 |[ormlite-android](https://github.com/j256/ormlite-android)|ORMLite Android功能与ormlite-core结合使用||
 
-========
-#### 动态更新热更新
-========
+------
+
+##### 动态更新热更新
+
+------
+
 |名字|介绍|
 |-----|-----|
 |[dexposed](https://github.com/alibaba/dexposed)|大幅度降低基于AOP方式替换大型方法的开发成本，[使用教程](http://www.apkbus.com/android-244457-1-1.html)，[Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51) 。 [Android Hotpatch系列之-项目介绍](http://my.oschina.net/fengcunhan/blog/487296) - [客户端例子实现](https://github.com/fengcunhan/Hotpatch-Sample),[服务器简易实现](https://github.com/fengcunhan/Hotpatch-SimpleServer)|
@@ -1899,9 +1982,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|通过GradleTransform和aspectj来实现代码动态修改,完美解决Dexposed兼容性问题，实现代码自动插桩。[AspectJX-Demo](https://github.com/HujiangTechnology/AspectJX-Demo)|
 |[RoboAspectJ](https://github.com/meituan/RoboAspectJ)|美团出品的开源热更新技术|
 
-========
-#### Input
-========
+------
+
+##### Input
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[WeChatPwd](https://github.com/smartown/WeChatPwd)|仿微信支付密码输入控件，支持明文输入||
@@ -1910,9 +1996,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[PasswordInput](https://github.com/EthanCo/PasswordInput)|具有Material Design渐变动画效果的密码控件及对话框|![](https://camo.githubusercontent.com/cbd3f01333ada19bdda04a2540dfbea4d5a330e0/687474703a2f2f6f716b3738786974322e626b742e636c6f7564646e2e636f6d2f70617373776f7264496e7075742e676966)|
 
 
-========
-#### Zxing
-========
+------
+
+##### Zxing
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[zxing](https://github.com/zxing/zxing)|二维码之祖|![](https://camo.githubusercontent.com/cd92fcc87ebc531c60edc667da4a77b90c004ff0/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f7a78696e672f7a78696e672f7a78696e672d6c6f676f2e706e67)|
@@ -1929,18 +2018,25 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[zxing-barcode]( https://github.com/ThePacific/zxing-barcode)|A barcode scanner based on zxing for android|<img src="https://github.com/ThePacific/Zxing-Barcode/blob/master/gif/example.gif" width="320" />|
 |[QrCardParsing]( https://github.com/RurioLuca/QrCardParsing)|二维码生成、扫描库|<img src = "https://raw.githubusercontent.com/RurioLuca/MeCardParsing/master/img/screen.png" width = "320"/>|
 |[QRGenerator](https://github.com/androidmads/QRGenerator)|二维码扫描库||
-========
-#### Log
-========
+
+------
+
+##### Log
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[xLog](https://github.com/elvishew/xLog)|简单、美观、强大、可扩展的 Android 和 Java 日志库，|https://raw.githubusercontent.com/elvishew/XLog/master/images/classic_log.png|
 |[logger](https://github.com/orhanobut/logger)|简介好看使用的log库|![](https://raw.githubusercontent.com/orhanobut/logger/master/art/logger_output.png)|
 |[ALog](https://github.com/Blankj/ALog)|Android开发简单的使用日志|![](https://raw.githubusercontent.com/Blankj/ALog/master/art/alog.gif)|
 
-========
-#### 网络请求框架
-========
+------
+
+##### 网络请求框架
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[android-async-http](https://github.com/loopj/android-async-http)|Android的异步HTTP库||
@@ -2003,9 +2099,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)|谷歌自产的网络请求框架||
 |[AndroidNetworkDemo](https://github.com/dodocat/AndroidNetworkDemo)|A demo show how to use Volley with OkHttp and https.同步发于[简书](http://www.jianshu.com/p/e58161cbc3a4)||
 
-========
-#### 动态权限请求库
-========
+------
+
+##### 动态权限请求库
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[easypermissions](https://github.com/googlesamples/easypermissions)|简化Android M系统权限||
@@ -2013,9 +2112,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[permissions4m](https://github.com/jokermonn/permissions4m)|国产手机5.0、6.0权限适配框架/编译时注解框架||
 
 
-========
-#### 其他
-========
+------
+
+##### 其他
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[WeiChatShake](https://github.com/changer0/WeiChatShake)|微信摇一摇demo|![](https://camo.githubusercontent.com/5e80987c9acd6b6e29b8029376b0c36d3bb00556/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333131383834322d396635386331383666333935346661312e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)|
@@ -2043,12 +2145,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 
 
 
+------
 
-
-
-========
 #### 工具
-========
+
+------
+
 |名字|介绍|
 |-----|-----|
 |[TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)|自己总结的Android开源项目及库||
@@ -2667,9 +2769,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 
 
 
-========
+------
+
 #### 开源项目
-========
+
+------
+
 |名字|介绍|图片|
 |-----|-----|-----|
 |[AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher)|这是一个TV Leanback 风格桌面|![](https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/design_sketch1.png)|
@@ -2934,12 +3039,12 @@ DownloadProgressBar is an android library that delivers awesome custom progress 
 |[banya]( https://github.com/forezp/banya)|瓣呀，一个非官方的豆瓣app|<img src="https://raw.githubusercontent.com/forezp/banya/master/art/1.jpg" width="270" /> <img src="https://raw.githubusercontent.com/forezp/banya/master/art/6.jpg" width="270" /> <img src="https://raw.githubusercontent.com/forezp/banya/master/art/10.jpg" width="270" />|
 |[Douya]( https://github.com/DreaminginCodeZH/Douya)|开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）|<img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/00-main.png" width="320" /> <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/01-immersive.jpg" width="320" />|
 
+------
 
+#### 面试和文章
 
+------
 
-========
-### 面试|文章
-========
 |名字|介绍|
 |-----|-----|
 |[CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge)|常用的Android开发的一些技能点汇集。|
