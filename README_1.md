@@ -24,9 +24,15 @@
 [![Lovesosoi](pic/lovesosoi.png) Lovesosoi](https://github.com/lvm0306)  
 
 ## 声明
+本库主要是是收集整理Android kotlin 等开源库，，目前github上的Android 开源库作者都是很久才更新一次，几乎不再维护，我会一直更新的，先立好flag，本库目前收录了1800余库，基本是每周一更新，与[Android 周报](https://github.com/lvm0306/android_weekly)同步更新，部分图片失效，可能是开源库的作者删除了图片，或引用了其他图片，大家点进开源库里去看图片即可，本开源库是按照功能分类的，大家如果有好的库，也欢迎提给我，我加上，毕竟目的是节省大家的开发时间，如果在这个开源库里能满足你所有的需求，岂不是美哉~，。最后，各位大佬，给个星星呗~
 
-Android ui 2019 重磅来袭，此次更新，删除3years 以上的不更新的库，Android 一年一升级，开源库不跟上，那不全是bug?为了让小伙伴用上最新的、最好的、最全的库，新版本正在升级，尽请期待！！！
-
+## 目录 `(分页版)`
+* [控件](pages/控件.md)
+* [工具](pages/工具.md)
+* [面试](pages/面试.md)
+* [文档](pages/其他.md)
+* [开源项目](pages/开源项目.md)
+* [Kotlin](pages/Kotlin.md)
 
 License
 =======
