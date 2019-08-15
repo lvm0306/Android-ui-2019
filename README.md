@@ -5,6 +5,10 @@
 >2019-7-22 更新 
 删除失效的andorid 库，增加新的android库
 
+>2019-7-23  ---  2019-8-15 
+整理大部分开源库，删除长期不更新的，进行更好的分类
+
+
 ## 其他开源库（Awesome 系列）
 - Android UI Library [wasabeef]  [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 - Android MaterialDesign [lightSky]  [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
@@ -25,7 +29,132 @@
 
 ## 声明
 
-Android ui 2019 重磅来袭，此次更新，删除3years 以上的不更新的库，Android 一年一升级，开源库不跟上，那不全是bug?为了让小伙伴用上最新的、最好的、最全的库，新版本正在升级，尽请期待！！！
+Android ui 2019 重磅来袭，此次更新摘要
+1.android-ui-2018 的分类不够清晰，2019新版，分类更清晰
+2.删除部分已失效的开源库和开源项目
+3.删除3年以上不更新的库
+
+Android 系统一年一升级，开源库长期不更新，使用起来那不全是bug?为了让小伙伴用上最新的、最好的、最全的库，新版本正在升级，尽请期待！！！
+
+### 更新日志
+- [动态权限(2019-8-15)](pages/动态权限.md)
+
+
+
+### Andorid-2019 目录
+
+
+- 基础控件
+    - textview
+    - edittext
+    - Imageview
+    - button
+    - RecyclerView
+    - menu
+    - progressbar
+    - popupWindow|dialog
+    - viewpager
+    - webview
+    - drawer
+    - toast|snackbar
+    - 自定义view
+    - 自定义viewgroup
+    
+----
+
+- 高级控件
+    - 日历选择器
+    - 颜色选择器
+    - 表格
+    - 图表
+    - 引导页
+    - 导航栏
+    - 表情
+    - 相机
+    - 地图
+    - 换肤
+    - 视频|音频
+    - 指纹认证
+    - 二维码
+    - 动画
+
+ -----
+
+- 数据存储
+    - 数据库
+    - SharePreference
+
+-----
+- 开发工具包
+    - 快速开发框架
+    - 工具库
+    - 网络请求
+    - 动态权限
+    - Eventbus
+    - 依赖注入
+    - Log
+    - json|xml
+    - rxjava|databinding
+    - js与java交互
+
+-----
+- 辅助工具
+    - 函数
+    - 键盘
+    - 定位
+    - 截屏
+    - 分享
+    - html解析
+    - app更新
+    - 加密|解密
+    - 表单验证
+    - 异步下载
+    - 多渠道
+    - 模拟器
+    - android studio 插件
+    - gradle
+    - vr|ar
+    - im
+    - RTSP
+    - 热修复
+    - 插件化
+    - 路由
+    - 支付
+
+-----
+
+-----
+- 安全&优化&破解
+    - 安全
+    - ANR
+    - 卡顿
+    - 异常
+    - 测试
+    - 优化
+    - 反编译
+    - root
+ 
+-----
+
+- 开源项目
+    - 热门应用高仿
+    - Gank.io
+    - TV
+    - WanAndroid
+    - github
+    - Google 官方demo
+    - 天气
+    - 相机
+    - 阅读器
+    - 文本编辑器
+    - 录音
+    - 其他
+    - kotlin
+    - Flutter
+    - React-Native 项目
+    - 微信小程序
+    - api
+
 
 
 License
