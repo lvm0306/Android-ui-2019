@@ -5,7 +5,7 @@
 
 |名字|介绍|图片|
 |-----|-----|-----|
-|[xLog](https://github.com/elvishew/xLog)|简单、美观、强大、可扩展的 Android 和 Java 日志库，|https://raw.githubusercontent.com/elvishew/XLog/master/images/classic_log.png|
+|[xLog](https://github.com/elvishew/xLog)|简单、美观、强大、可扩展的 Android 和 Java 日志库|1859星|https://raw.githubusercontent.com/elvishew/XLog/master/images/classic_log.png|
 |[logger](https://github.com/orhanobut/logger)|简介好看使用的log库|![](https://raw.githubusercontent.com/orhanobut/logger/master/art/logger_output.png)|
 |[ALog](https://github.com/Blankj/ALog)|Android开发简单的使用日志|![](https://raw.githubusercontent.com/Blankj/ALog/master/art/alog.gif)|
 |[LogCollector](https://github.com/ljuns/LogCollector)|一个收集 app 输出日志的工具||
@@ -22,7 +22,7 @@
 |[LogFilter](https://github.com/smart-fun/LogFilter)|简单的Log，有Debug和Release模式||
 |[XLog](https://github.com/Qiu800820/XLog)|追踪上线BUG,自动保存,管理LOG,一键上传||
 |[DebugOverlay-Android](https://github.com/Manabu-GT/DebugOverlay-Android)|App 端，查看 Logcat 信息||
-|[LogcatTextView](https://github.com/munix/LogcatTextView)|帮助你在 App 端，查看 Logcat 输出信息||
+|[LogcatTextView](https://github.com/munix/LogcatTextView)|帮助你在 App 端，查看 Logcat 输出信息|| 
 |[Console](https://github.com/jraska/Console)|可在手机上查看 `logcat`||
 |[Lynx](https://github.com/pedrovgs/Lynx)|可在手机上查看 `logcat`||
 |[LogcatViewer]( https://github.com/fatangare/LogcatViewer)|可在手机上查看 `logcat`||
