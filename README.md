@@ -2,13 +2,6 @@
 ==================
 一份用心编写的Android UI/Tools 开源库
 
->2019-7-22 更新 
-删除失效的andorid 库，增加新的android库
-
->2019-7-23  ---  2019-8-15 
-整理大部分开源库，删除长期不更新的，进行更好的分类
-
-
 ## 其他开源库（Awesome 系列）
 - Android UI Library [wasabeef]  [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 - Android MaterialDesign [lightSky]  [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
@@ -38,6 +31,7 @@ Android 系统一年一升级，开源库长期不更新，使用起来那不全
 
 ### 更新日志
 - [动态权限(2019-8-15)](pages/动态权限.md)
+- [Log(2019-8-22)](pages/Log.md)
 
 
 
@@ -92,7 +86,7 @@ Android 系统一年一升级，开源库长期不更新，使用起来那不全
     - [动态权限](pages/动态权限.md)
     - Eventbus
     - 依赖注入
-    - Log
+    - [Log](pages/Log.md)
     - json|xml
     - rxjava|databinding
     - js与java交互
@@ -156,6 +150,19 @@ Android 系统一年一升级，开源库长期不更新，使用起来那不全
     - api
 
 
+
+
+>2019-7-22 更新 
+删除失效的andorid 库，增加新的android库
+
+>2019-7-23  ---  2019-8-15 
+整理大部分开源库，删除长期不更新的，进行更好的分类
+
+>2019-8-15
+更新动态权限库
+
+>2019-8-22
+更新Log库
 
 License
 =======
