@@ -146,6 +146,11 @@ Android 系统一年一升级，开源库长期不更新，使用起来那不全
     - [文件管理器](pages/开源项目.md)
     - [系统常用功能](pages/开源项目.md)
     - [其他](pages/开源项目.md)
+    - [Kotlin](pages/开源项目.md)
+    - [Flutter](pages/开源项目.md)
+    - [React-Native](pages/开源项目.md)
+    - [微信小程序](pages/开源项目.md)
+    - [API](pages/开源项目.md)
 
 
 #### 更新日志
